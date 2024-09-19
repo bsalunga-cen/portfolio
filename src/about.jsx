@@ -26,7 +26,7 @@ const About = () => (
     </p>
 
     {/* <a href="../src/assets/biancasalunga_resume.pdf" target="_blank" rel="noopener noreferrer">Download My Resume</a> */}
-    <a href = {Pdf} target = "_blank">Download My Resume</a>
+    <a href = {Pdf} target = "_blank" download={Pdf}>Download My Resume</a>
     </div>
 );
     
