@@ -1,3 +1,10 @@
+/* 
+File Name: Home.jsx
+Student Name: Bianca Salunga
+Student ID: 301385026
+Date: Sep. 19, 2024
+*/
+
 import React from 'react';
 import cartoonLogo from '../src/assets/cartoon_logo.png';
 

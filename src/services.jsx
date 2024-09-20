@@ -1,3 +1,10 @@
+/* 
+File Name: services.jsx
+Student Name: Bianca Salunga
+Student ID: 301385026
+Date: Sep. 19, 2024
+*/
+
 import React from 'react';
 import services1 from '../src/assets/services1.png';
 

@@ -1,3 +1,10 @@
+/* 
+File Name: MainRouter.jsx
+Student Name: Bianca Salunga
+Student ID: 301385026
+Date: Sep. 19, 2024
+*/
+
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Home from './Home';
