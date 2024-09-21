@@ -13,7 +13,9 @@ const About = () => (
     <div className='home-section'>
     <h2 className='h2-section'>About Me.</h2>
     <img className="profile-image" src={myPhoto} alt="My photo" />
-    <p>Hello! My name is <b>Bianca</b>, and I'm a seasoned Software QA Engineer with over a decade of experience in ensuring software quality. I'm currently pursuing a Software Engineering Technician diploma at Centennial College to further enhance my technical skills and broaden my knowledge in the field.</p>
+    <div className="aboutme-container">
+    <p>Hello! My name is <b>Bianca Salunga</b>, and I'm a seasoned Software QA Engineer with over a decade of experience in ensuring software quality. I'm currently pursuing a Software Engineering Technician diploma at Centennial College to further enhance my technical skills and broaden my knowledge in the field.</p>
+    </div>
     <p>
     Throughout my career, I've honed my abilities in various testing methodologies, including functional testing, regression testing, and performance testing. I'm passionate about delivering high-quality software that meets user expectations and exceeds industry standards. Beyond my technical expertise, I'm a strong advocate for collaboration and effective communication. I thrive in team-oriented environments and believe that open dialogue is essential for successful software development.
     </p>

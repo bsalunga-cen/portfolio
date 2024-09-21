@@ -21,7 +21,7 @@ When I'm not diving into my studies, you'll find me cooking delicious recipes, c
 </p>
 <p>Come along for the ride! 😊</p>
 
-    <a href="/about">Learn More About Me</a>
+    <a href="/about">See More About Me</a>
 
 <h2 className='h2-section'>My Mission.</h2>
     <p>As a passionate and dedicated Software Engineering Technician, my mission is to leverage technology to create innovative solutions that enhance user experiences and solve real-world problems. I strive to continuously expand my knowledge and skills in software development, focusing on building efficient, scalable, and user-friendly applications. </p>
